@@ -1,0 +1,14 @@
+{
+	"scripts": [
+		{
+			"name": "GuiBySten",
+			"description": "Gui made by Sten :P",
+			"location": "https://thebox1.dev/uploads/guac-executor/scripthub/GuiBySten/"
+		},
+		{
+			"name": "Blood",
+			"description": "A script named Blood",
+			"location": "https://thebox1.dev/uploads/guac-executor/scripthub/Blood/"
+		}
+	]
+}

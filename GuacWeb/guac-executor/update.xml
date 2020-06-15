@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<guacUpdate>
+	<update appId="Guac">
+		<version>1.8.0.0</version>
+		<url>https://thebox1.dev/uploads/guac-executor/Guac.exe</url>
+		<fileName>Guac.exe</fileName>
+		<md5>31275cd8c067b9089f1d5b1934e88da3</md5>
+		<description>Updated website link</description>
+		<launchArgs></launchArgs>
+	</update>
+</guacUpdate>
